@@ -1,0 +1,8 @@
+h2{
+    display: inline;
+background-color: palevioletred;
+}
+span{
+    display: block;
+    background-color: rgb(69, 119, 100);
+}
